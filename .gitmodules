@@ -1,0 +1,9 @@
+[submodule "test/google"]
+	path = test/google
+	url = https://github.com/selenide-examples/google.git
+[submodule "test/gmail"]
+	path = test/gmail
+	url = https://github.com/selenide-examples/gmail.git
+[submodule "test/hangman"]
+	path = test/hangman
+	url = https://github.com/selenide-examples/hangman.git
